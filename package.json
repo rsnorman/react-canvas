@@ -1,5 +1,5 @@
 {
-  "name": "react-canvas",
+  "name": "rsnorman-react-canvas",
   "version": "0.0.1",
   "description": "High performance <canvas> rendering for React components",
   "main": "lib/ReactCanvas.js",
